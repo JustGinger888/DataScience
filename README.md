@@ -30,7 +30,7 @@ insights from complex, noisy, heterogeneous, longitudinal, and voluminous data. 
 - Utilise suitable data mining tools 
 - and analysis techniques to find 
   - significant patterns and trends 
-  - SPSS, Excel, Tableau, WEKA, Python libraries, etc 
+  - Excel, Tableau, WEKA, Python libraries, etc 
 - Explain the patterns you have observed.
 
 
